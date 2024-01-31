@@ -1,0 +1,45 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+#navTop {
+    background-color: #ef3d59;
+}
+
+#landing {
+    background-color: #ef3d59;
+    color: whitesmoke;
+}
+
+#project{
+    background-color: #e17a47;
+}
+
+#project h2 {
+     font-weight: bold;
+}
+
+#tools {
+    background-color: #efc958;
+}
+
+#tools h2 {
+     font-weight: bold;
+}
+
+.fab {
+    font-size: 50px;
+}
+
+/*#contact {
+    background-color: #4ab19d;
+}*/
+
+#contact h2 {
+     font-weight: bold;
+}
+
+#footer {
+    background-color:#4ab19d ;
+    color: white;
+}
